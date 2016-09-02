@@ -1,0 +1,38 @@
+{
+  "name": "react-native-nanum-barun-gothic",
+  "version": "1.0.0",
+  "rnpm": {
+    "assets": [
+      "Fonts"
+    ]
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "osx",
+    "macos",
+    "ui",
+    "나눔바른고딕",
+    "NanumBarunGothic",
+    "네이버",
+    "naver"
+  ],
+  "author": {
+    "name": "Sungil Kang",
+    "email": "helpkang@gmail.com"
+  },
+  "homepage": "https://github.com/helpkang/react-native-nanum-barun-gothic",
+  "bugs": {
+    "url": "https://github.com/helpkang/react-native-nanum-barun-gothic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/helpkang/react-native-nanum-barun-gothic.git"
+  },
+  "license": "MIT"
+}
